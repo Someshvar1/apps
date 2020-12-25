@@ -1,5 +1,32 @@
 body{
-text-align: center;
+    text-align: center;
     background: linear-gradient(0deg, rgba(34,193,195,1) 2%, rgba(45,126,253,1) 97%);
     border-style: dotted;
+}
+img{
+    width:300px;
+    height:300px;
+    border-radius: 20px;
+}
+#chatbot{
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+#apps{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 2%, rgba(253,152,45,1) 97%);
+}
+#DB{
+    height:620px;
+}
+#myCarousel{
+   background-color: red;
+}
+#myCarousel img{
+height: 300px;
+    margin-top: 35px;
+}
+carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
 }
